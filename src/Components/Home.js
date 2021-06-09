@@ -10,7 +10,7 @@ class Home extends React.Component {
                     <div className="col-md-12 text-center">
                         <img src={ReactLogo} className="my-3" alt="React Logo" title="React Logo" width="200px"></img>
                         <h2 className="font-weight-bold">Home</h2>
-                        <h4 className="font-weight-bold text-primary">ReactJs Router with Fetch Rest API</h4>
+                        <h4 className="font-weight-bold text-primary">ReactJs App with Fetch Rest API</h4>
                     </div>
                     <div className="col-md-4 mt-5">
                         <Link to="/trips">
